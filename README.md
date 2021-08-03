@@ -1,5 +1,8 @@
 ### 👀 Yo whats poppin' slime? 👀
 
+![](https://komarev.com/ghpvc/?username=smartdanny)
+
+
 <!--
 **smartdanny/smartdanny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
